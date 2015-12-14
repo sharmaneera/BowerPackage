@@ -1,0 +1,22 @@
+{
+  "name": "Rotate-PS",
+  "authors": [
+    "Neera Sharma"
+  ],
+  "description": "just for practice",
+  "main": "rotate.js",
+  "moduleType": [],
+  "keywords": [
+    "rotate",
+    "practice"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
